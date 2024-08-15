@@ -1,0 +1,6 @@
+Meeting ID validation
+Meeting content integrity: If the meeting content, i.e. the content before section "Annotated Main Topics", is the same as before. 
+Annotation format consistency: Topic, span, query, answers. 
+Abnormality check:
+If there is any exceptional annotation. E.g. Annotation is too much or too less, empty annotation, empty section, etc.
+If there are duplicate queries and answers for the same meeting. 
