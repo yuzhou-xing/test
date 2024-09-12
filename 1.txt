@@ -1,3 +1,4 @@
 test file to verify command
 the seconds line
 editor local
+modify again
